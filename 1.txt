@@ -1,3 +1,4 @@
 aaa
+zmiana 1
 bbb
 4
